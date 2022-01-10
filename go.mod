@@ -2,4 +2,4 @@ module gioman
 
 go 1.15
 
-require gioui.org v0.0.0-20210221133636-9d1e3370f4ec
+require gioui.org v0.0.0-20220108162035-aadb6609ec0f
